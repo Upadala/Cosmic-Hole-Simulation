@@ -19,5 +19,4 @@ This project aims to use the data collection and analyze using the shot frequenc
 1. Install the required dependencies:
    ```bash
    pip install numpy matplotlib
-python cosmic_simulation.py
-
+   cosmic hole.ipynb
